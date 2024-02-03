@@ -1,2 +1,2 @@
 # Music-Recommendation
-Music Recommendation system using spotifymillionsongsdataset
+Content Based Music Recommendation system using spotifymillionsongsdataset and cosine similarity
